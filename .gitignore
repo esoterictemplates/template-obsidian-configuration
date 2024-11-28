@@ -7,6 +7,9 @@
 node_modules
 package-lock.json
 
+# Common compiled files
+dist
+
 # Archive/binary files
 *.zip
 *.tar
