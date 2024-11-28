@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Added `dist` to [.gitignore](./.gitignore).
+
 ## 1.0.2
 
 - Added [.gitignore](./.gitignore).
