@@ -1,6 +1,6 @@
 # Template Asset Repository
 
-<sup>By [Esoteric Enderman](https://enderman.dev), licensed under [CC BY-SA-4.0](./LICENSE), generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [1.0.5](https://github.com/EsotericTemplates/template-asset-repository/tree/1.0.5)</sup>
+<sup>By [Esoteric Enderman](https://enderman.dev), licensed under [CC BY-SA-4.0](./LICENSE), generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [1.0.6](https://github.com/EsotericTemplates/template-asset-repository/tree/1.0.6)</sup>
 
 [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-asset-repository)](https://github.com/EsotericTemplates/template-asset-repository)
 

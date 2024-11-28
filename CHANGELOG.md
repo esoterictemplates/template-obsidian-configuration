@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- Added `dist` to [.gitignore](./.gitignore). ([upstream](https://github.com/EsotericTemplates/template-repository))
+
 ## 1.0.5
 
 - Updated upstream $\rightarrow$ added [.gitignore](./.gitignore).
