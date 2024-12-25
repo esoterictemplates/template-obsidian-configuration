@@ -1,6 +1,6 @@
 # Template Repository
 
-<sup>Licensed under [GPL-3.0](./LICENSE), generated from [Template Repository](https://github.com/EsotericTemplates/template-repository) [1.0.3](https://github.com/EsotericTemplates/template-repository/tree/1.0.3)</sup>
+<sup>Generated from [Template Repository](https://github.com/EsotericTemplates/template-repository) [1.0.3](https://github.com/EsotericTemplates/template-repository/tree/1.0.3)</sup>
 
 [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/EsotericTemplates/template-repository)
 
