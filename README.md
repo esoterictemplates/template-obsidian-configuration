@@ -51,7 +51,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## License
 
-[Repository Name](./) Copyright (C) \<year> \<name of author>
+[Repository Name](./) Copyright (C) \<year> [\<name of author>](https://author.xyz)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
