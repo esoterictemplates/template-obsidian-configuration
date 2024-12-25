@@ -30,7 +30,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 Make sure to update the information in [CITATION.cff](./CITATION.cff) when releasing new versions.
 
-#### License
+#### Template License
 
 [Template Repository](https://github.com/EsotericTemplates/template-repository) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
 
