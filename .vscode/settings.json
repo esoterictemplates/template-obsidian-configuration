@@ -7,6 +7,7 @@
         "github",
         "orcid",
         "sublicensable",
-        "waivable"
+        "waivable",
+        "xlink"
     ]
 }
