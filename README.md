@@ -16,7 +16,6 @@ All information to do with the template repository is under this heading "[Using
 
 The following serves as a checklist - a list of tasks to complete when creating a new repository using this template.
 
-- [ ] Click on "Use this template" and follow the steps to create a new repository.
 - [ ] Update the [repository name](#template-repository) in this file.
 - [ ] Update the [repository description](#template-repository) in this file.
 - [ ] Update the [link(s)](#template-repository) of the badges.
