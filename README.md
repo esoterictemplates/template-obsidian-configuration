@@ -1,6 +1,6 @@
 # Template Repository
 
-<sup>By [Esoteric Enderman](https://enderman.dev), licensed under [GPL-3.0](./LICENSE), generated from [Template Repository](https://github.com/EsotericTemplates/template-repository) [1.0.3](https://github.com/EsotericTemplates/template-repository/tree/1.0.3)</sup>
+<sup>Licensed under [GPL-3.0](./LICENSE), generated from [Template Repository](https://github.com/EsotericTemplates/template-repository) [1.0.3](https://github.com/EsotericTemplates/template-repository/tree/1.0.3)</sup>
 
 [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/EsotericTemplates/template-repository)
 
@@ -19,7 +19,6 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Click on "Use this template" and follow the steps to create a new repository.
 - [ ] Update the [repository name](#template-repository) in this file.
 - [ ] Update the [repository description](#template-repository) in this file.
-- [ ] Update the [repository author](#template-repository) in this file.
 - [ ] Update the [link(s)](#template-repository) of the badges.
 - [ ] Fill in the information under the [license](#license) heading in this file.
 - [ ] Fill in the contact details in the [code of conduct](./CODE_OF_CONDUCT.md) file.
