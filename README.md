@@ -31,7 +31,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 Make sure to update the information in [citation](./CITATION.cff) when releasing new versions.
 
-#### Template License
+#### License of This Template
 
 [Template Repository](https://github.com/esoterictemplates/template-repository) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
 
@@ -41,7 +41,7 @@ This template is distributed in the hope that it will be useful, but WITHOUT ANY
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this template. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
 
-#### Topics
+#### Topics of This Template
 
 template templates template-project template-repository template-generic-repo
 
