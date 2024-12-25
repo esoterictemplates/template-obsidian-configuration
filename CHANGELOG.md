@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Fixed some issues in [README.md](./README.md).
+
 ## 1.1.0
 
 - Reworked [README.md](./README.md).
