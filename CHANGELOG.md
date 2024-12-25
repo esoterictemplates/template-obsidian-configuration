@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Reworked [README.md](./README.md).
+
 ## 1.0.3
 
 - Added `dist` to [.gitignore](./.gitignore).
