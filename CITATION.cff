@@ -10,11 +10,11 @@ authors:
     orcid: 'https://orcid.org/0009-0007-4990-9556'
 identifiers:
   - type: url
-    value: 'https://github.com/EsotericTemplates/template-repository'
+    value: 'https://github.com/esoterictemplates/template-repository'
     description: The link to the GitHub repository.
-repository-code: 'https://github.com/EsotericTemplates/template-repository'
-url: https://github.com/EsotericTemplates/template-repository?tab=readme-ov-file
-repository-artifact: 'https://github.com/EsotericTemplates/template-repository/releases'
+repository-code: 'https://github.com/esoterictemplates/template-repository'
+url: https://github.com/esoterictemplates/template-repository?tab=readme-ov-file
+repository-artifact: 'https://github.com/esoterictemplates/template-repository/releases'
 abstract: >
   This repository serves as a general-purpose template for generating new GitHub repositories.
 keywords:
