@@ -41,6 +41,10 @@ This template is distributed in the hope that it will be useful, but WITHOUT ANY
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this template. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
 
+#### Topics
+
+template templates template-project template-repository template-generic-repo
+
 ## Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.
