@@ -4,7 +4,7 @@
 
 [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/EsotericTemplates/template-repository)
 
-This repository serves as a general-purpose template for generating new GitHub repositories.
+This repository serves as a general-purpose template for generating new Git repositories.
 
 ## Usage
 
