@@ -2,7 +2,7 @@
 
 <sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.1.0](https://github.com/esoterictemplates/template-repository/tree/1.0.3)</sup>
 
-[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/esoterictemplates/template-repository)
+[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
 This repository serves as a general-purpose template for generating new Git repositories.
 
