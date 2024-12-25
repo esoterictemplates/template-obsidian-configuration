@@ -1,8 +1,8 @@
 # Template Repository
 
-<sup>Generated from [Template Repository](https://github.com/EsotericTemplates/template-repository) [1.0.3](https://github.com/EsotericTemplates/template-repository/tree/1.0.3)</sup>
+<sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.0.3](https://github.com/esoterictemplates/template-repository/tree/1.0.3)</sup>
 
-[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/EsotericTemplates/template-repository)
+[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](https://github.com/esoterictemplates/template-repository)
 
 This repository serves as a general-purpose template for generating new Git repositories.
 
@@ -33,7 +33,7 @@ Make sure to update the information in [citation](./CITATION.cff) when releasing
 
 #### Template License
 
-[Template Repository](https://github.com/EsotericTemplates/template-repository) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
+[Template Repository](https://github.com/esoterictemplates/template-repository) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
 
 This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
