@@ -14,6 +14,16 @@
 
 ## Log
 
+### 2.0.0
+
+#### Additions
+
+- Added "forked from" text.
+
+#### Changes
+
+- Merged upstream changes.
+
 ### 1.1.1
 
 #### Fixes
