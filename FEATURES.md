@@ -32,3 +32,7 @@ This file documents all of the features of this project.
 ## [CITATION.cff](./CITATION.cff)
 
 - Instructs users on how they can cite this project correctly.
+
+## [.gitignore](./.gitignore)
+
+- Ignores files that should never be added to a project anyway.
