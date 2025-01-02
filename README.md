@@ -49,6 +49,10 @@ template templates template-project template-repository template-generic-repo
 
 See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.
 
+### Ideas
+
+See [IDEAS.md](./IDEAS.md) for ideas and planned features for this project.
+
 ## Code of Conduct
 
 See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.

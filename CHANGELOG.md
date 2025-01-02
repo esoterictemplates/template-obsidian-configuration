@@ -16,6 +16,10 @@
 
 ### 1.2.0
 
+#### Additions
+
+- [IDEAS.md](./IDEAS.md)
+
 #### Changes
 
 - [CHANGELOG](./CHANGELOG.md) format
