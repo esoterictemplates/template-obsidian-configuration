@@ -14,6 +14,12 @@
 
 ## Log
 
+### 2.0.2
+
+#### Fixes
+
+- Fixed [CITATION.cff](./CITATION.cff) being out-of-date.
+
 ### 2.0.1
 
 #### Additions
