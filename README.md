@@ -42,7 +42,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## Features
 
-See [FEATURES.md](./FEATURES.md) for a list of features of this project.
+See [FEATURES.md](./FEATURES.md) for a list of features of this template.
 
 ## Changelog
 
@@ -50,15 +50,15 @@ See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different ve
 
 ## Ideas
 
-See [IDEAS.md](./IDEAS.md) for ideas and planned features for this project.
+See [IDEAS.md](./IDEAS.md) for ideas and planned features for this template.
 
 ## Issues
 
-See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this project.
+See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this template.
 
 ## Citation
 
-See [CITATION.cff](./CITATION.cff) for instructions on how to cite this project.
+See [CITATION.cff](./CITATION.cff) for instructions on how to cite this template.
 
 ## Code of Conduct
 
