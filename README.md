@@ -1,6 +1,6 @@
 # Template Repository
 
-<sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.1.1](https://github.com/esoterictemplates/template-repository/tree/1.1.1)</sup>
+<sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.2.0](https://github.com/esoterictemplates/template-repository/tree/1.2.0)</sup>
 
 [![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esoterictemplates/template-repository?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
