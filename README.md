@@ -53,7 +53,7 @@ See [FEATURES.md](./FEATURES.md) for a list of features of this project.
 
 See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.
 
-### Ideas
+## Ideas
 
 See [IDEAS.md](./IDEAS.md) for ideas and planned features for this project.
 
