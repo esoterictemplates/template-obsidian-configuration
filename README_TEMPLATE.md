@@ -18,7 +18,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different ve
 
 See [IDEAS.md](./IDEAS.md) for ideas and planned features for this project.
 
-### Issues
+## Issues
 
 See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this project.
 
