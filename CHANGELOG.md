@@ -34,6 +34,7 @@
 - Moved instructions on updating the project from [README.md](./README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md). 
 - Updated [copyright statement](./README.md#license).
 - Indicated in [README.md](./README.md) that issues, features, and ideas are also tracked with regards to the template.
+- Moved `FEATURES.md` to the newly created `docs` folder for better organisation.
 
 #### Fixes
 

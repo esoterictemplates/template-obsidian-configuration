@@ -11,7 +11,7 @@ Project description.
 ### Updating This Project
 
 - Update [CHANGELOG.md](./CHANGELOG.md) if needed.
-- Update [FEATURES.md](./FEATURES.md) if needed.
+- Update [FEATURES.md](./docs/FEATURES.md) if needed.
 - Update [ISSUES.md](./ISSUES.md) if needed.
 - Update [IDEAS.md](./IDEAS.md) if needed.
 
@@ -22,7 +22,7 @@ Project description.
 
 ## Features
 
-See [FEATURES.md](./FEATURES.md) for a list of features of this project.
+See [FEATURES.md](./docs/FEATURES.md) for a list of features of this project.
 
 ## Changelog
 

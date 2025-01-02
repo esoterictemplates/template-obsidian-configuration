@@ -42,7 +42,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## Features
 
-See [FEATURES.md](./FEATURES.md) for a list of features of this template.
+See [FEATURES.md](./docs/FEATURES.md) for a list of features of this template.
 
 ## Changelog
 
