@@ -19,6 +19,7 @@
 #### Changes
 
 - Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](./README.md) of the template repository into two different files
+- Generalised project name in [README.md](./README.md)
 
 #### Fixes
 

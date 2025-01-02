@@ -2,7 +2,7 @@
 
 [![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./)
 
-This repository serves as a general-purpose template for generating new Git repositories.
+This repository serves as a general-purpose template for generating new projects.
 
 ## Usage
 
