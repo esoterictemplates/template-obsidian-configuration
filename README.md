@@ -6,6 +6,25 @@ This repository serves as a general-purpose template for generating new projects
 
 ## Usage
 
+### Creating a New Project Using This Template
+
+#### GitHub (Recommended)
+
+- Click on the green "Use this template" button at the top right of this page.
+- Click on "Create a new repository".
+- Fill in the repository name in the form that you see.
+- Fill in the description in the form that you see.
+- Select which visibility the project should have.
+- Click on "Create repository".
+- Fill in any extra information that you may need.
+- Clone your new repository using `git clone`.
+
+#### Manual
+
+- Download the files of this repository, either via a zip archive, or using `git clone`.
+- If you used `git clone`, delete the `.git` file.
+- If you are using version control (recommended), create the first revision.
+
 ### Checklist
 
 The following serves as a checklist - a list of tasks to complete when creating a new project using this template.

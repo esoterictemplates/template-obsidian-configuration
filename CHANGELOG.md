@@ -16,6 +16,10 @@
 
 ### 2.0.0
 
+#### Additions
+
+- A [guide](./README.md#creating-a-new-project-using-this-template) on how to create a new project using this template
+
 #### Changes
 
 - Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](./README.md) of the template repository into two different files
