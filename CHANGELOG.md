@@ -14,6 +14,12 @@
 
 ## Log
 
+### 2.0.1
+
+#### Additions
+
+- Added [IntelliJ IDEA .gitignore](./.idea/.gitignore).
+
 ### 2.0.0
 
 #### Additions

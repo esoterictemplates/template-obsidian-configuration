@@ -37,3 +37,7 @@ This file documents all of the features of this project.
 ## [.gitignore](./.gitignore)
 
 - Ignores files that should never be added to a project anyway.
+
+### [IntelliJ IDEA .gitignore](../.idea/.gitignore)
+
+- Ignores certain files when opening with IntelliJ IDEA and possibly other IDEs too.
