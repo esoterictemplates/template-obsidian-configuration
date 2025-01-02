@@ -19,13 +19,13 @@
 #### Additions
 
 - A [guide](./README.md#creating-a-new-project-using-this-template) on how to create a new project using this template
+- Added more instructions to [README.md](./README.md) for updating the project and releasing new versions
 
 #### Changes
 
 - Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](./README.md) of the template repository into two different files
 - Generalised project name and use cases in [README.md](./README.md)
 - Changed the logo of the "repository size" badge from GitHub to Git
-- Added more instructions to [README.md](./README.md) for updating the project and releasing new versions.
 
 #### Fixes
 
