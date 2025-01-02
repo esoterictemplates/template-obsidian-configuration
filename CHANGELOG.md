@@ -14,6 +14,12 @@
 
 ## Log
 
+### 1.2.0
+
+#### Changes
+
+- [CHANGELOG](./CHANGELOG.md) format
+
 ### 1.1.1
 
 #### Fixes
