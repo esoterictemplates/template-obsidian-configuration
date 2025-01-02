@@ -1,6 +1,6 @@
 # Ideas
 
-This file is used to track ideas and planned features for this project. Ideas are separated into 3 categories:
+This file is used to track ideas and planned features for this project. Implemented ideas will be moved to [FEATURES.md](./FEATURES.md).
 
 ## Will Implement
 

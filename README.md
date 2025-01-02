@@ -45,6 +45,10 @@ You should have received a copy of the [GNU General Public License](./LICENSE) a
 
 template templates template-project template-repository template-generic-repo
 
+## Features
+
+See [FEATURES.md](./FEATURES.md) for a list of features of this project.
+
 ## Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different versions.

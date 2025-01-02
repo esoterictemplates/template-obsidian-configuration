@@ -18,6 +18,7 @@
 
 #### Additions
 
+- [FEATURES.md](./FEATURES.md)
 - [IDEAS.md](./IDEAS.md)
 
 #### Changes
