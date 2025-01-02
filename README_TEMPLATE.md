@@ -2,7 +2,7 @@
 
 <sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.2.0](https://github.com/esoterictemplates/template-repository/tree/1.2.0)</sup>
 
-[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=github&label=Repository%20size)](./)
+[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=git&label=Repository%20size)](./)
 
 Project description.
 
