@@ -22,6 +22,7 @@
 - Added more instructions to [README.md](./README.md) for [updating the project](./README.md#updating-this-project) and [releasing new versions](./README.md#releasing-new-versions).
 - Added instruction to commit changes to [the checklist](./README.md#checklist).
 - Added instruction to delete files if applicable to [the checklist](./README.md#checklist).
+- Added links to [README.md](./README.md) and [README_TEMPLATE.md](./README_TEMPLATE.md) that leads to [CITATION.cff](./CITATION.cff).
 
 #### Changes
 
