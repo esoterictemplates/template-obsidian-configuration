@@ -38,9 +38,17 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Update the information in the [citation](./CITATION.cff) file.
 - [ ] Delete [this file](./README.md) and rename [README_TEMPLATE.md](./README_TEMPLATE.md) to `README.md`.
 
+### Updating This Project
+
+- Update [CHANGELOG.md](./CHANGELOG.md) if needed.
+- Update [FEATURES.md](./FEATURES.md) if needed.
+- Update [ISSUES.md](./ISSUES.md) if needed.
+- Update [IDEAS.md](./IDEAS.md) if needed.
+
 ### Releasing New Versions
 
-Make sure to update the information in [citation](./CITATION.cff) when releasing new versions.
+- Update [CHANGELOG.md](./CHANGELOG.md).
+- Update [CITATION.cff](./CITATION.cff).
 
 ## Features
 
