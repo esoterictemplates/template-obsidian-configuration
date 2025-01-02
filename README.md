@@ -29,11 +29,11 @@ This repository serves as a general-purpose template for generating new projects
 
 The following serves as a checklist - a list of tasks to complete when creating a new project using this template.
 
-- [ ] Update the [repository name](./README_TEMPLATE.md#project-name) in [README_TEMPLATE.md](./README_TEMPLATE.md).
-- [ ] Update the [repository description](./README_TEMPLATE.md#^description) in [README_TEMPLATE.md](./README_TEMPLATE.md).
-- [ ] Update the [link(s)](./README_TEMPLATE.md#^badges) of the badge(s) at the top of [README_TEMPLATE.md](./README_TEMPLATE.md).
-- [ ] Fill in the information under the [license](./README_TEMPLATE.md#^license-information) heading in [README_TEMPLATE.md](./README_TEMPLATE.md).
-- [ ] Fill in the [contact details](./CODE_OF_CONDUCT.md#^contact) in the [code of conduct](./CODE_OF_CONDUCT.md) file.
+- [ ] Update the [repository name](#template-repository) in [README_TEMPLATE.md](./README_TEMPLATE.md).
+- [ ] Update the [repository description](#template-repository) in [README_TEMPLATE.md](./README_TEMPLATE.md).
+- [ ] Update the [link(s)](#template-repository) of the badge(s) at the top of [README_TEMPLATE.md](./README_TEMPLATE.md).
+- [ ] Fill in the information under the [license](#license) heading in [README_TEMPLATE.md](./README_TEMPLATE.md).
+- [ ] Fill in the contact details in the [code of conduct](./CODE_OF_CONDUCT.md) file.
 - [ ] Clear the [changelog](./CHANGELOG.md) file.
 - [ ] Update the information in the [citation](./CITATION.cff) file.
 - [ ] Delete [this file](./README.md) and rename [README_TEMPLATE.md](./README_TEMPLATE.md) to `README.md`.
