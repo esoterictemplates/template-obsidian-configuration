@@ -36,6 +36,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Fill in the [contact details](./CODE_OF_CONDUCT.md#enforcement) in the [code of conduct](./CODE_OF_CONDUCT.md) file.
 - [ ] Clear the [changelog](./CHANGELOG.md) file.
 - [ ] Update the information in the [citation](./CITATION.cff) file.
+- [ ] If you are using a different system to track features, ideas, and/or issues, delete those files respectively.
 - [ ] Delete [this file](./README.md) and rename [README_TEMPLATE.md](./README_TEMPLATE.md) to `README.md`.
 - [ ] Commit your changes to version control if applicable.
 
