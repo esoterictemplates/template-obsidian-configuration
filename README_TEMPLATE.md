@@ -6,6 +6,20 @@
 
 Project description.
 
+## Usage
+
+### Updating This Project
+
+- Update [CHANGELOG.md](./CHANGELOG.md) if needed.
+- Update [FEATURES.md](./FEATURES.md) if needed.
+- Update [ISSUES.md](./ISSUES.md) if needed.
+- Update [IDEAS.md](./IDEAS.md) if needed.
+
+### Releasing New Versions
+
+- Update [CHANGELOG.md](./CHANGELOG.md).
+- Update [CITATION.cff](./CITATION.cff).
+
 ## Features
 
 See [FEATURES.md](./FEATURES.md) for a list of features of this project.
