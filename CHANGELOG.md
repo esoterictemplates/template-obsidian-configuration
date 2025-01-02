@@ -1,51 +1,96 @@
 # Changelog
 
-## 1.1.1
+## Format
 
-- Fixed some issues in [README.md](./README.md).
+### Version
 
-## 1.1.0
+#### Additions
 
-- Reworked [README.md](./README.md).
+#### Changes
 
-## 1.0.3
+#### Removals
 
-- Added `dist` to [.gitignore](./.gitignore).
+#### Fixes
 
-## 1.0.2
+## Log
 
-- Added [.gitignore](./.gitignore).
+### 1.1.1
 
-## 1.0.1
+#### Fixes
 
-- Updated the badges in [README.md](./README.md).
+- Fixed some issues in [README.md](./README.md)
 
-## 1.0.0
+### 1.1.0
 
-- Updated [README.md](./README.md).
-- Added [CITATION.cff](./CITATION.cff).
+#### Changes
 
-## 0.5.0
+- [README.md](./README.md)
 
-- Updated [README.md](./README.md).
-- Added badges to [README.md](./README.md).
+### 1.0.3
 
-## 0.4.0
+#### Changes
 
-- Updated [the license](./LICENSE).
+- Added `dist` to [.gitignore](./.gitignore)
 
-## 0.3.0
+### 1.0.2
 
-- Added a [checklist](./README.md#checklist).
+#### Additions
 
-## 0.2.1
+- [.gitignore](./.gitignore)
 
-- Added link to the [Code of Conduct](./CODE_OF_CONDUCT.md) to the [README.md](./README.md) file.
+### 1.0.1
 
-## 0.2.0
+#### Changes
 
-- Added [this file](./CHANGELOG.md).
+- [README.md](./README.md) badges
 
-## 0.1.0
+### 1.0.0
 
-- Added a basic template with a [README.md](./README.md) file and a [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file.
+#### Additions
+
+- [CITATION.cff](./CITATION.cff)
+
+#### Changes
+
+- [README.md](./README.md)
+
+### 0.5.0
+
+#### Additions
+
+- [README.md](./README.md) badges.
+
+#### Changes
+
+- [README.md](./README.md)
+
+### 0.4.0
+
+#### Changes
+
+- [LICENSE](./LICENSE)
+
+### 0.3.0
+
+#### Additions
+
+- [Checklist](./README.md#checklist)
+
+### 0.2.1
+
+#### Additions
+
+- Link in [README.md](./README.md) to [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+
+### 0.2.0
+
+#### Additions
+
+- [CHANGELOG.md](./CHANGELOG.md)
+
+### 0.1.0
+
+#### Additions
+
+- [README.md](./README.md)
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
