@@ -20,6 +20,7 @@
 
 - A [guide](./README.md#creating-a-new-project-using-this-template) on how to create a new project using this template
 - Added more instructions to [README.md](./README.md) for updating the project and releasing new versions
+- Added instruction to commit changes to [the checklist](./README.md#checklist).
 
 #### Changes
 
