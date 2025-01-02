@@ -24,7 +24,7 @@
 
 - Separated the [template README.md](./README_TEMPLATE.md) and the [README.md](./README.md) of the template repository into two different files
 - Generalised project name and use cases in [README.md](./README.md)
-- Changed the logo of the "repository size" badge from GitHub to Git.
+- Changed the logo of the "repository size" badge from GitHub to Git
 
 #### Fixes
 
