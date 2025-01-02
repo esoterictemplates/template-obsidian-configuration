@@ -23,6 +23,7 @@
 - Added instruction to commit changes to [the checklist](./README.md#checklist).
 - Added instruction to delete files if applicable to [the checklist](./README.md#checklist).
 - Added links to [README.md](./README.md) and [README_TEMPLATE.md](./README_TEMPLATE.md) that leads to [CITATION.cff](./CITATION.cff).
+- Started using [FEATURES.md](./FEATURES.md) and [IDEAS.md](./IDEAS.md) in terms of the actual template repository.
 
 #### Changes
 
