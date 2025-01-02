@@ -8,7 +8,7 @@ This repository serves as a general-purpose template for generating new projects
 
 ### Checklist
 
-The following serves as a checklist - a list of tasks to complete when creating a new repository using this template.
+The following serves as a checklist - a list of tasks to complete when creating a new project using this template.
 
 - [ ] Update the [repository name](#template-repository) in [README_TEMPLATE.md](./README_TEMPLATE.md).
 - [ ] Update the [repository description](#template-repository) in [README_TEMPLATE.md](./README_TEMPLATE.md).
