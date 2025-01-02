@@ -24,6 +24,6 @@ keywords:
   - generator
   - github
 license: GPL-3.0
-commit: bb58d8e2b2dca7ba88ec30408f751356beeb1923
-version: 1.1.1
-date-released: '2024-12-25'
+commit: b5037df574bb95962254ac62e3edde8444701ae6
+version: 1.2.0
+date-released: '2025-01-02'
