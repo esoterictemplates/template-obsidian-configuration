@@ -1,5 +1,7 @@
 # Template Asset Repository
 
+<sup>Forked from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository)</sup>
+
 [![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-asset-repository?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
 This repository serves as a template for generating new projects for asset files.
