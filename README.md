@@ -57,6 +57,10 @@ See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different ve
 
 See [IDEAS.md](./IDEAS.md) for ideas and planned features for this project.
 
+### Issues
+
+See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this project.
+
 ## Code of Conduct
 
 See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.

@@ -20,6 +20,7 @@
 
 - [FEATURES.md](./FEATURES.md)
 - [IDEAS.md](./IDEAS.md)
+- [ISSUES.md](./ISSUES.md)
 
 #### Changes
 
