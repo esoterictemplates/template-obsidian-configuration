@@ -66,7 +66,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## License
 
-[Template Repository](https://github.com/esoterictemplates/template-repository) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
+[Template Repository](https://github.com/esoterictemplates/template-repository) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev)
 
 This template is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 

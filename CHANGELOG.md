@@ -32,6 +32,7 @@
 - Changed the logo of the "repository size" badge from GitHub to Git.
 - Added back the usage of periods to end changes in [CHANGELOG.md](./CHANGELOG.md).
 - Moved instructions on updating the project from [README.md](./README.md) to [README_TEMPLATE.md](./README_TEMPLATE.md). 
+- Updated [copyright statement](./README.md#license).
 
 #### Fixes
 
