@@ -16,7 +16,7 @@ repository-code: 'https://github.com/esoterictemplates/template-repository'
 url: https://github.com/esoterictemplates/template-repository?tab=readme-ov-file
 repository-artifact: 'https://github.com/esoterictemplates/template-repository/releases'
 abstract: >
-  This repository serves as a general-purpose template for generating new GitHub repositories.
+  This repository serves as a general-purpose template for generating new projects.
 keywords:
   - template
   - repository
