@@ -2,9 +2,16 @@
 
 <sup>Generated from [Template Repository](https://github.com/esoterictemplates/template-repository) [1.2.0](https://github.com/esoterictemplates/template-repository/tree/1.2.0)</sup>
 
-[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=github&label=Repository%20size)](./) ^badges
+<div id=badges>
+    <a href="./">
+        <img src="./.assets/images/badges/status/unfinished.svg" alt="Project Status: Unfinished">
+    </a>
+    <a href="./">
+        <img src="https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=github&label=Repository%20size" alt="Repository Size">
+    </a>
+</div>
 
-Project description. ^description
+<p id="description">Project description.</p>
 
 ## Features
 
@@ -28,7 +35,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## License
 
-[Repository Name](./) Copyright (C) \<year> [\<name of author>](https://author.xyz) ^license-information
+<p id="license-information"><a href="./">Repository Name</a> Copyright &copy; [year] <a href="https://author.xyz">[name of author]</a></p>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
