@@ -1,0 +1,9 @@
+{
+    "userIllegalSymbols": [],
+    "ignoredFiles": {},
+    "useFileOpenHook": true,
+    "useFileSaveHook": true,
+    "newHeadingStyle": "Prefix",
+    "replaceStyle": false,
+    "underlineString": "==="
+}
