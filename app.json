@@ -11,5 +11,5 @@
         "margin": "0",
         "downscalePercent": 100
     },
-    "userIgnoreFilters": ["data/", "templates/", "README.md", "CHANGELOG.md"]
+    "userIgnoreFilters": ["README.md", "CHANGELOG.md", "docs"]
 }
