@@ -28,3 +28,8 @@ dist
 
 # User-specific Obsidian workspace
 workspace.json
+
+# Compiled Obsidian plugins
+plugins/*/main.js
+plugins/*/styles.css
+plugins/*/manifest.json
