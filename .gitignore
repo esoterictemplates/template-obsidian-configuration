@@ -28,6 +28,7 @@ dist
 
 # User-specific Obsidian workspace
 workspace.json
+workspace-mobile.json
 
 # Compiled Obsidian plugins
 plugins/*/main.js
