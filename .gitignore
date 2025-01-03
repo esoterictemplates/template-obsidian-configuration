@@ -25,3 +25,6 @@ dist
 *.msi
 *.jar
 *.class
+
+# User-specific Obsidian workspace
+workspace.json
