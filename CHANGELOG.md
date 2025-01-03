@@ -14,6 +14,12 @@
 
 ## Log
 
+### 2.1.0
+
+#### Additions
+
+- Credited this template.
+
 ### 2.0.2
 
 #### Fixes
