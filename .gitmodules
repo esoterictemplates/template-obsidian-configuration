@@ -1,0 +1,15 @@
+[submodule "plugin-repositories/folder-notes"]
+	path = plugin-repositories/folder-notes
+	url = git@github.com:LostPaul/obsidian-folder-notes.git
+[submodule "plugin-repositories/better-markdown-links"]
+	path = plugin-repositories/better-markdown-links
+	url = git@github.com:mnaoumov/obsidian-better-markdown-links.git
+[submodule "plugin-repositories/settings-search"]
+	path = plugin-repositories/settings-search
+	url = git@github.com:javalent/settings-search.git
+[submodule "plugin-repositories/obsidian-filename-heading-sync"]
+	path = plugin-repositories/obsidian-filename-heading-sync
+	url = git@github.com:dvcrn/obsidian-filename-heading-sync.git
+[submodule "plugin-repositories/OA-file-hider"]
+	path = plugin-repositories/OA-file-hider
+	url = git@github.com:Oliver-Akins/file-hider.git
