@@ -10,6 +10,7 @@ This file documents all of the features of this project.
 - Repository size badge.
 - License information.
 - Instructions on how to update the project correctly.
+- Credits this template.
 
 ## [LICENSE](./LICENSE)
 
