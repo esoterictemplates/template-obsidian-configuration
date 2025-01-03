@@ -4,6 +4,8 @@ This file is used to keep track of issues with the project
 
 ## Will Fix
 
+- This template isn't credit properly.
+
 ## Won't Fix
 
 ## Fixed
