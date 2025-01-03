@@ -53,3 +53,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+
+## Credit
+
+- [Template Repository](https://github.com/esoterictemplates/template-repository) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev) licensed under [GPL-3.0](./LICENSE).
