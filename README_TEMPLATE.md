@@ -1,6 +1,6 @@
 # Project Name
 
-<sup>Generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [2.0.0](https://github.com/EsotericTemplates/template-asset-repository/tree/2.0.0)</sup>
+<sup>Generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [2.1.0](https://github.com/EsotericTemplates/template-asset-repository/tree/2.1.0)</sup>
 
 [![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=git&label=Repository%20size)](./)
 
