@@ -43,8 +43,6 @@ for d in ./plugin-repositories/*/ ;
             node esbuild.config.mjs production
         fi
 
-        echo Removing possible created lock files
-
         cd ../..
 
         echo Making sure directories exist
@@ -82,5 +80,7 @@ echo Removing work folder
 
 echo Current working directory
 pwd
+
+echo Removing possible created lock files
 
 git submodule foreach git restore ./
