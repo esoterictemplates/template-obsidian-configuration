@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 # Builds the Obsidian plugins from their source code and moves the output to the plugins folder.
+# This script assumes that you run it from the root of the .obsidian folder.
+# (Meaning the correct command would be ./scripts/build_plugins.sh).
 echo Building plugins
 
 echo Current working directory
