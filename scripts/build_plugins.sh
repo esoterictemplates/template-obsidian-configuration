@@ -5,7 +5,7 @@
 # (Meaning the correct command would be ./scripts/build_plugins.sh).
 echo Building plugins
 
-echo Current working directory
+echo Current working directory:
 pwd
 
 echo Updating submodules
@@ -22,7 +22,7 @@ for d in ./plugin-repositories/*/ ;
 
         echo Building plugin $d
 
-        echo Current working directory
+        echo Current working directory:
         pwd
 
         echo Installing dependencies
@@ -47,12 +47,12 @@ for d in ./plugin-repositories/*/ ;
 
         echo Making sure directories exist
 
-        echo Current working directory
+        echo Current working directory:
         pwd
 
         p=${d//"./plugin-repositories/"/}
 
-        echo Creating plugin directory
+        echo Creating plugin directory:
         echo $p
 
         mkdir -p ./plugins
@@ -78,7 +78,7 @@ done
 
 echo Removing work folder
 
-echo Current working directory
+echo Current working directory:
 pwd
 
 echo Removing possible created lock files
