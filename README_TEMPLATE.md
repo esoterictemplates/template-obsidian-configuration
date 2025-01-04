@@ -1,6 +1,6 @@
 # Project Name
 
-<sup>Generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [2.1.0](https://github.com/EsotericTemplates/template-asset-repository/tree/2.1.0)</sup>
+<sup>Generated from [Template Obsidian Configuration](https://github.com/EsotericTemplates/template-obsidian-configuration) [1.0.0](https://github.com/EsotericTemplates/template-obsidian-configuration/tree/1.0.0)</sup>
 
 [![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/author/project?style=for-the-badge&logo=git&label=Repository%20size)](./)
 
@@ -49,4 +49,4 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## Credit
 
-- [Template Asset Repository](https://github.com/esoterictemplates/template-asset-repository) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev) licensed under [CC BY-SA 4.0](./LICENSE).
+- [Template Obsidian Configuration](https://github.com/esoterictemplates/template-obsidian-configuration) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev) licensed under [CC BY-SA 4.0](./LICENSE).

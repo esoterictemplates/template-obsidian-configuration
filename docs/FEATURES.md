@@ -38,3 +38,16 @@ This file documents all of the features of this project.
 ### [IntelliJ IDEA .gitignore](../.idea/.gitignore)
 
 - Ignores certain files when opening with IntelliJ IDEA and possibly other IDEs too.
+
+## Minimalist Obsidian Settings
+
+- Configures Obsidian to have minimal bloated and unnecessary settings.
+- Settings for plugins included as well.
+
+## Useful Plugins
+
+- Contains ESSENTIAL Obsidian plugins to make usage much better.
+
+## Build Plugins From Source!
+
+- Using [submodules](../plugin-repositories/) and an exquisite [build script](../scripts/build_plugins.sh), you can build plugins directly from their source code and deposit the compiled binaries into the [plugins folder](../plugins/).
